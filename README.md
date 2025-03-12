@@ -1,0 +1,1 @@
+# model_warna_6_dengan_python
