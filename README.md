@@ -1,1 +1,1 @@
-# model_warna_6_dengan_python
+# color-model-v6-python
